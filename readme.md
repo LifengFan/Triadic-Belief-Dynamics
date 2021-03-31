@@ -4,7 +4,7 @@
 Introduction
 ----
 
-The project is described in our [CVPR 2021 paper: Learning Traidic Belief Dynamics in Nonverbal Communication from Videos](https://lifengfan.github.io/files/cvpr21/CVPR21_Belief_Dynamics.pdf).   
+The project is described in our [CVPR 2021 paper: Learning Traidic Belief Dynamics in Nonverbal Communication from Videos](https://github.com/LifengFan/Triadic-Belief-Dynamics/blob/main/doc/TBD_paper.pdf).   
 
 ![](https://github.com/LifengFan/Tradic-Belief-Dynamics/blob/master/doc/motivation.jpg)  
 
