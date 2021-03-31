@@ -12,7 +12,7 @@ The project is described in our [CVPR 2021 paper: Learning Traidic Belief Dynami
 Dataset
 ----
 
-Please fill this [Google form]() to get a copy of the dataset and annotation. We will get back to you in a day or two.
+Please fill this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSe3v-qopGWjx3ZcrCzp7ReRf7VadBuVMhMXCsMe1z3qFVcGvA/viewform?usp=pp_url) to get a copy of the dataset and annotation. We will get back to you in a day or two.
 
 
 Citation
