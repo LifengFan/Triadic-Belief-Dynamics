@@ -1,1 +1,0 @@
-# -git-Triadic-Belief-Dynamics
