@@ -20,6 +20,6 @@ Please refer to main() in box_smooth.py for detailed explanation
 Taking the object masks estimated from detectron2 and the depth image, we will estimation the 3D center of each object by running `python pointclouds.py`
 
 ### eye-tracker gaze estimation
-Since the eye-tracker has precise gaze estimation on 2D first-view image, we want to estimate the 3D gaze direction by finding the corresponding objects between first-view and third-view based on the colors and the categories of the objects. Then the difference between the 3D center of the objects (estimated from pointclouds) and the center of the huamn head (estimation from skeleton) can be treated as the gaze direction in 3D space. Details can be found in view_mapping.py
+Since the eye-tracker has precise gaze estimation on 2D first-view image, we want to estimate the 3D gaze direction by finding the corresponding objects between first-view and third-view based on the colors and the categories of the objects. Then the difference between the 3D center of the objects (estimated from pointclouds) and the center of the huamn head (estimation from skeleton) can be treated as the gaze direction in 3D space. Details can be found in `view_mapping.py`
 
 

@@ -1,0 +1,14 @@
+(v) 1. extract rosbag to imgs, glasses video to imgs
+(v) 2. set start and end frames, align frames
+(v) 3. smooth skeletons
+(v) 4. object detection
+(v) 5. object resort
+6. extract kinect pointclouds of objs
+(v) 7. obj detection reformat
+(v) 8. deep_sort tracking
+(v) 9. box smooth
+(v) 10. find mask cate
+11. view mapping(redo all)
+
+
+
