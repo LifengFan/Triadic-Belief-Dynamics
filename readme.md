@@ -22,7 +22,7 @@ Here is a [demo](https://vimeo.com/428719419) that briefly summarizes our work.
 Code
 ----
 
-All the raw codes are uploaded here, but still under maintenance now...
+All the raw codes are uploaded here, but are still under maintenance now...
 
 
 Citation
