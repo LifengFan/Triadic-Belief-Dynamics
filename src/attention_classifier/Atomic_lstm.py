@@ -1,5 +1,4 @@
 import sys
-sys.path.append("/home/lfan/Dropbox/Projects/ICCV19/RunComm/src/")
 import torch
 import torch.nn
 import torch.autograd
@@ -118,7 +117,6 @@ class Atomic_node_only_lstm(torch.nn.Module):
         model_dict.update(pretrained_dict)
         self.fc2.load_state_dict(model_dict)
 
-
     def freeze_res_layer(self, layer_num=9):
 
         # freeze resnet
@@ -140,7 +138,6 @@ class Atomic_node_only_lstm(torch.nn.Module):
             param.requires_grad = False
         for param in self.fc2.parameters():
             param.requires_grad = False
-
 
     def link_fun(self, edge_feat):
         # input: edge_feat [N, 262*2, max_node_num, max_node_num]
