@@ -55,6 +55,7 @@ class Atomic_node_only_lstm(torch.nn.Module):
 
         self.lstm_readout=torch.nn.Linear(self.nodefeat_n1, 6, bias=True)
 
+        
         #----------------- edge node out ----------------------
         # edge 40
         # node 119
