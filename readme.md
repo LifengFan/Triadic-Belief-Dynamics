@@ -12,7 +12,7 @@ Humans possess a unique social cognition capability; nonverbal communication can
 Dataset
 ----
 
-Please fill this [online form](https://docs.qq.com/form/page/DTmFtVkdPb3NSSndp#/fill) to get a copy of the dataset and annotation. We will get back to you in a day or two.
+Please fill this [online form](https://forms.gle/P415ZYFLKu6pye6m6) to get a copy of the dataset and annotation. We will get back to you in a day or two.
 
 Demo
 ----
