@@ -12,7 +12,11 @@ Humans possess a unique social cognition capability; nonverbal communication can
 Dataset
 ----
 
-Please fill this [online form](https://forms.gle/T9g2wVxjsKUE4SBk6) to get a copy of the dataset and annotation. We will get back to you in a day or two.
+Please directly send an email to this email address: lfan@g.ucla.edu 
+
+**Please also include this promise in your email: I promise to use the dataset for non-commercial, academic, and research purposes only.**
+
+The dataset is available for free only for research purposes.
 
 Demo
 ----
